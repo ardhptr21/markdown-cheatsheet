@@ -107,9 +107,9 @@
 ### Contoh :
 
 ```markdown
-_ITALIC_ atau _ITALIC_
+_ITALIC_
 
-**BOLD** atau **BOLD**
+**BOLD**
 
 ~~STRIKETHROUGH~~
 ```
@@ -213,12 +213,12 @@ class Main {
 ### Contoh :
 
 ```markdown
----
+___
 ```
 
 ### Hasil :
 
----
+___
 
 ## 10. Link (normal)
 
@@ -265,6 +265,15 @@ Klik [disini][1] untuk penjelasan markdown
 ![markdown image](https://markdown-here.com/img/icon256.png)
 
 ## 13. Table
+
+### Contoh :
+```markdown
+| No  | Name | Description                  |
+| --- | ---- | ---------------------------- |
+| 1.  | HTML | Hypertext Markup Language    |
+| 2.  | CSS  | Cascading Style Sheet        |
+| 3.  | PHP  | PHP: Hypertext Preproccessor |
+```
 
 ### Hasil :
 
